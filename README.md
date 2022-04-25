@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## My name is Alejandro Torres but
+## My name is Alejandro Torres 👋
 
 - 😄 I like to be called Ale(x=cs)
 - 🤓 Interested in continuous improvement, self learning, innovation and automation
