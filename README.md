@@ -3,7 +3,7 @@
 - 😄 I like to be called Ale(x=cs)
 - 🤓 Interested in continuous improvement, self learning, innovation and automation
 - 🔭 Currently, I’m working at [HolaLuz](https://github.com/holaluz) <img src="https://avatars.githubusercontent.com/u/18170344?s=64&amp;v=4" alt="@holaluz" size="14" height="14" width="14" data-view-component="true" class="avatar"/> as a Senior Backend Engineer
-- 🧑‍🏭 I usually worked with Java :coffee: but the language it's a implementation detail. Now I'm working with PHP
+- 🧑‍🏭 I usually worked with Java :coffee: but the language it's a implementation detail. Now I'm working with PHP and Kotlin
 - ⚡ I develop software starting with the tests (TDD) with the SOLID principles in mind following a DDD tactical approach and decoupling the business with Hexagonal Architectures techniques
 - 🚚 Agile and Lean follower :arrows_counterclockwise: feedback is a must when delivery product
 
