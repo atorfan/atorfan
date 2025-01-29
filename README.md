@@ -2,7 +2,7 @@
 
 - 😄 I like to be called Ale(x=cs)
 - 🤓 Interested in continuous improvement, self learning, innovation and automation
-- 🔭 Currently, I’m working at [IFCO](https://github.com/Digital-IFCO) ![IFCO][ifco_icon] as a Senior Software Engineer
+- 🔭 Currently, I’m working at [IFCO](https://github.com/Digital-IFCO) ![][ifco_icon] as a Senior Software Engineer
 - ⏱ In the past, I've been working at [HolaLuz](https://github.com/holaluz) ![][holaluz_icon], [RedPoints](https://www.redpoints.com) ![][redpoints_icon], [Mango](https://shop.mango.com/) ![][mango_icon] and [Dreivip](https://www.dreivip.com) ![][dreivip_icon]
 - 🧑‍🏭 I usually worked with Java ☕️ but the language it's a implementation detail. Also I worked with PHP, Kotlin, JavaScript...
 - ⚡ I develop software guided by tests (TDD) with SOLID principles in mind following a DDD tactical approach and decoupling the business logic with Clean Architectures
